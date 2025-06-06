@@ -4,7 +4,7 @@ A fully responsive real estate website built with **HTML**, **CSS**, and **JavaS
 
 ## 🔗 Live Demo
 
-[View Live Site](https://github.com/jossy21-coder/Fully-responsive-real-estate-website-using-HTML-CSS-JavaScript.git)
+[View Live Site](https://www.youtube.com/@JossyAM-kp3cu)
 
 ## 📸 Screenshots
 
