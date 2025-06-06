@@ -1,6 +1,3 @@
----
-
-```markdown
 # 🏡 Real Estate Website
 
 A fully responsive real estate website built with **HTML**, **CSS**, and **JavaScript**. The website is designed to showcase properties, provide an intuitive user experience, and adapt seamlessly across all devices.
